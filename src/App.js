@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+// import Day1 from './day1/day1';
+// import Day2 from './day2/day2';
+// import Day3 from './day3/day3';
+// import Day4 from './day4/day4';
+// import Day6 from "./day6/day6";
+// import Day7 from "./day7/day7";
+// import Day8 from "./day8/day8";
+// import Day9 from "./day9/day9";
+import Day10 from "./day10/day10";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     {/* <Day1/> */}
+     {/* <Day2/> */}
+     {/* <Day3/> */}
+     {/* <Day4/> */}
+     {/* <Day6/> */}
+     {/* <Day7/> */}
+     {/* <Day8/> */}
+     {/* <Day9/> */}
+     <Day10/>
     </div>
   );
 }
